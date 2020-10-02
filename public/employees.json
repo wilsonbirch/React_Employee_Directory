@@ -1,0 +1,33 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "photo": "../public/assets/prisonmike.png",
+            "name": "Michael Scott",
+            "Position": "Regional Manager",
+            "Email": "michaelgaryscott@dundermifflin.pa"
+        },
+        {
+            "id": 2,
+            "photo": "../public/assets/dwightschrute.jpeg",
+            "name": "Dwight Schrute",
+            "Position": "Salesman",
+            "Email": "dwightschrute@dundermifflin.pa"
+        },
+        {
+            "id": 3,
+            "photo": "../public/assets/jimhalpert.png",
+            "name": "Jim Halpert",
+            "Position": "Head of Sales",
+            "Email": "jimmyhalpert@dundermifflin.pa"
+        },
+        {
+            "id": 4,
+            "photo": "../public/assets/creedbratton.jpg",
+            "name": "Creed Bratton",
+            "Position": "Quality Assurance",
+            "Email": "creedbratton1@dundermifflin.pa"
+        }
+        
+    ]
+}
