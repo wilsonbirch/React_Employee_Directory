@@ -1,5 +1,6 @@
 # React_Employee_Directory
 
+The employee directory is built and is hosted at: https://wilsonbirch.github.io/React_Employee_Directory/
 
 ## Overview
 
