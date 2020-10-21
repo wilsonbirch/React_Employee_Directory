@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React_Employee_Directory/static/css/main.abaa3831.chunk.css",
+    "main.js": "/React_Employee_Directory/static/js/main.7eb6c57a.chunk.js",
+    "main.js.map": "/React_Employee_Directory/static/js/main.7eb6c57a.chunk.js.map",
+    "runtime-main.js": "/React_Employee_Directory/static/js/runtime-main.0bd013b3.js",
+    "runtime-main.js.map": "/React_Employee_Directory/static/js/runtime-main.0bd013b3.js.map",
+    "static/css/2.2a86faee.chunk.css": "/React_Employee_Directory/static/css/2.2a86faee.chunk.css",
+    "static/js/2.1887ab03.chunk.js": "/React_Employee_Directory/static/js/2.1887ab03.chunk.js",
+    "static/js/2.1887ab03.chunk.js.map": "/React_Employee_Directory/static/js/2.1887ab03.chunk.js.map",
+    "index.html": "/React_Employee_Directory/index.html",
+    "precache-manifest.1b7d487a3d41805d42c7133c31af3287.js": "/React_Employee_Directory/precache-manifest.1b7d487a3d41805d42c7133c31af3287.js",
+    "service-worker.js": "/React_Employee_Directory/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/React_Employee_Directory/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.abaa3831.chunk.css.map": "/React_Employee_Directory/static/css/main.abaa3831.chunk.css.map",
+    "static/js/2.1887ab03.chunk.js.LICENSE.txt": "/React_Employee_Directory/static/js/2.1887ab03.chunk.js.LICENSE.txt",
+    "static/media/creedbratton.jpg": "/React_Employee_Directory/static/media/creedbratton.e55d17c1.jpg",
+    "static/media/dwightschrute.jpeg": "/React_Employee_Directory/static/media/dwightschrute.0a5e4a55.jpeg",
+    "static/media/janlevinson.jpg": "/React_Employee_Directory/static/media/janlevinson.f6784645.jpg",
+    "static/media/jimhalpert.png": "/React_Employee_Directory/static/media/jimhalpert.7b0a1fda.png",
+    "static/media/logo.svg": "/React_Employee_Directory/static/media/logo.5d5d9eef.svg",
+    "static/media/prisonmike.png": "/React_Employee_Directory/static/media/prisonmike.bd5258c3.png",
+    "static/media/robertcalifornia.jpg": "/React_Employee_Directory/static/media/robertcalifornia.84b0b428.jpg",
+    "static/media/ryanhoward.jpg": "/React_Employee_Directory/static/media/ryanhoward.980c96c0.jpg",
+    "static/media/stanleyhudson.png": "/React_Employee_Directory/static/media/stanleyhudson.722339c0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd013b3.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.1887ab03.chunk.js",
+    "static/css/main.abaa3831.chunk.css",
+    "static/js/main.7eb6c57a.chunk.js"
+  ]
+}
